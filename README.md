@@ -2,13 +2,7 @@
 
 Smart controlled house using 4 Electronic control units (ECUs):
 
-![](RackMultipart20200517-4-1skbv9l_html_4c16715dcdaaaf62.gif) ![](RackMultipart20200517-4-1skbv9l_html_fdbb44cc58666cee.gif)
-
-**UART**
-
-**I2C / SPI**
-
- ![](RackMultipart20200517-4-1skbv9l_html_79900d47891232dd.gif)
+<img src="images/system.PNG"/>
 
 System construction:
 
@@ -74,21 +68,23 @@ received configuration from the MUGE ECU.
 
 ECUs Construction:
 
-![](RackMultipart20200517-4-1skbv9l_html_65dc6b93f9d60115.gif)
-
 - RC ECU:
+
+<img src="images/RC.PNG">
 
 - MUGW ECU:
 
-![](RackMultipart20200517-4-1skbv9l_html_9200dcee1da64c3e.gif)
+<img src="images/MUGW.PNG">
 
 - RS ECU:
 
-![](RackMultipart20200517-4-1skbv9l_html_9076de4d3a4c0b87.gif)
+<img src="images/RS.PNG">
 
 - AD ECU:
 
-![](RackMultipart20200517-4-1skbv9l_html_3d21997c8c7f94fa.gif)
+<img src="images/AD.PNG">
+
+
 
 System operation:
 
